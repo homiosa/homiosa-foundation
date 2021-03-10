@@ -1,0 +1,2 @@
+# homiosa-foundation
+AWS Basisressourcen
